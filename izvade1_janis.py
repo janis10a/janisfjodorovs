@@ -1,0 +1,12 @@
+#Jānis Fjodorovs
+print('sekos tukša rinda')
+print()
+print('Visi ',end='')
+print('vārdi ',end='')
+print('vienā ',end='')
+print('rindā ')
+print('Visi vārdi vienā rindā')
+print('no zvaigznītēm * veidots trijstūris')
+print('  *  ')
+print(' * * ')
+print('*****')
